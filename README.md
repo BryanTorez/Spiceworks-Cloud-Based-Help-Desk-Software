@@ -2,9 +2,8 @@
 
 
 <h2>Description</h2>
-So far throughout the past projects, I've learned the goals and methods of providing an all around good customer service; along with creating my own. Yet, the single area of weakness that I still is learning the typical established protocols and rules of IT Help Desk. Spiceworks, a cloud based help desk desk software
+So far, throughout the past projects, I've learned the policies and procedures for providing good customer service. Yet, my single area of weakness in learning the help desk is a typical Remote Desktop Protocol (RDP) program tool. Spiceworks, a Cloud Based Help Desk Software, has a remote desktop tool feature that allows a user to connect to a computer in another location, see the computer's desktop and interact with it as if it were local troubleshoot.
 
-Compared to both the Zendesk and Spiceworks projects, in this project I've created a ticketing system from scratch. This project uses a Linux Virtual Machine (Emulating Operating System), Linode (Cloud Hosting Provider), and Docker (Application Platform). I've been using this ticketing system for the past several months for family and friends. Enough talking lets get into it...
 
 <br />
 
