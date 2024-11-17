@@ -1,8 +1,8 @@
-<h1>Spiceworks - Cloud Based Help Desk Software</h1>
+<h1>Spiceworks - Cloud-Based Help Desk RDP</h1>
 
 
 <h2>Description</h2>
-So far, throughout the past projects, I've learned the policies and procedures for providing good customer service. Yet, my single area of weakness in learning the help desk is a typical Remote Desktop Protocol (RDP) program tool. Spiceworks, a Cloud Based Help Desk Software, has a remote desktop tool feature that allows a user to connect to a computer in another location, see the computer's desktop and interact with it as if it were local troubleshoot.
+So far, throughout the past projects, I've learned the policies and procedures for providing good customer service. Yet, my single area of weakness in learning the help desk is a typical Remote Desktop Protocol (RDP) program tool. Spiceworks, a Cloud Based Help Desk Software, has a remote desktop tool feature that allows a user to connect to a computer in another location, see the computer's desktop, and interact with it as if it were local troubleshooting. In this project, I'm going to build another virtual machine but this time a Windows operating system. I intend to use my general desktop to connect to the virtual machine using the Spiceworks RDP tool so I can be more familiar with the tool when I use it professionally.
 
 
 <br />
@@ -10,45 +10,47 @@ So far, throughout the past projects, I've learned the policies and procedures f
 
 <h2>Utilities used...</h2>
 
-- <b>Docker</b> 
-- <b>Linode</b>
-- <b>Linux Virtual Machine</b>
+- <b>Remote Desktop Tool</b> 
+- <b>Virtual Box</b>
+- <b>Windows Virtual Machine</b>
 
 <h2>Environments Used </h2>
 
 - <b>Windows 11</b>
-- <b>Linux (Ubuntu 24.10)</b>
+- <b>Windows 10 (Version 22H2)</b>
 
 <h2>Platform walk-through:</h2>
 
 <p align="center">
-Go to https://www.virtualbox.org/wiki/Download_Old_Builds_7_0 and download the latest build: <br/>
+Go to https://www.microsoft.com/en-us/software-download/windows10%20 and download the installation build: <br/>
 <br />
-<img src="https://snipboard.io/JeV6UE.jpg" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://snipboard.io/NrGytV.jpg" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 <br />
-<img src="https://snipboard.io/OZWA4n.jpg" height="70%" width="70%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<br />
-<br />
-Go to https://ubuntu.com/download/desktop and download the latest build : <br/>
-<br />
-<img src="https://snipboard.io/BQOE8N.jpg" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://snipboard.io/w8zxDQ.jpg" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <br />
 <br />
-Go to https://ubuntu.com/download/desktop and download the latest build : <br/>
+Go to https://www.virtualbox.org/wiki/Download_Old_Builds_7_1 and download the 7.1.2 version build : <br/>
 <br />
-<img src="https://snipboard.io/VRxr9e.jpg" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://snipboard.io/VZeY7x.jpg" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://snipboard.io/5OPW09.jpg" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<br />
+Go to https://accounts.spiceworks.com/join?referrer_source=login&referrer_reference=joinlink and create an account: <br/>
+<br />
+<img src="https://snipboard.io/HTGY4E.jpg" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <br />
 <br />
-Go to your settings on your Windows operating system: <br/>
+Launch Virtual Box and create the new Windows virtual machine : <br/>
 <br />
-<img src="https://snipboard.io/StLp6g.jpg" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://snipboard.io/mpUL8O.jpg" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 <br />
+<img src="https://snipboard.io/0U963K.jpg" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <br />
