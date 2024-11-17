@@ -138,11 +138,11 @@ When you see this pop-up on your virtual machine press Join from there will be a
 As you can see, the virtual system can be controlled from the original system. There are a load of impressive features that you can use for remote troubleshooting. :  <br/>
 <img src="https://snipboard.io/fSjo89.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<img src="https://snipboard.io/A8kqls.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://snipboard.io/TgwtAq.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <br />
 Task manager to check for performance issues, Firewall for malware, and security concerns, Computer Management to check software errors and crashes, etc.:  <br/>
 <br />
-<img src="https://snipboard.io/h8RdBW.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://snipboard.io/x3woUs.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
